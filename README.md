@@ -4,8 +4,10 @@ Descripciín basisca de su Proyecto de POO ...
 
 # Autores
 
-- Autor 1
-- Autor 2
+- Tomás Castaño Ortiz
+- Andrés Mauricio Perdomo Cardona
+- Víctor Alfonso Sánches Pachon
+- Amerika Esmeralda Giraldo Gonzáles
 
 # Herramientas
 
